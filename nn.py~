@@ -1,4 +1,4 @@
-__author__ = 'yinyan'
+__author__ = 'easycui'
 import csv
 import gzip
 ###

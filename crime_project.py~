@@ -1,4 +1,4 @@
-__author__ = 'yinyan'
+__author__ = 'easycui'
 import pandas as pd
 from sklearn.cross_validation import train_test_split
 from sklearn import preprocessing
